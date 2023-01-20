@@ -1,2 +1,2 @@
 # repository
-learning reposotory
+learning reposotory hub
